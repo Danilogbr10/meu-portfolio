@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meu Site</title>
+</head>
+<body>
+
+    <h1>Meu Portfólio</h1>
+
+    <h2>Sobre Mim</h2>
+    <p>Sou estudante de Análise e Desenvolvimento de Sistemas.</p>
+    <p>Estou em transição de carreira para a área de Tecnologia da Informação.</p>
+    <p>Busco oportunidades para desenvolver minhas habilidades e crescer profissionalmente.</p>
+
+    <h2>Habilidades</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Lógica de Programação</li>
+    </ul>
+
+    <h2>Projetos</h2>
+    <img src="projeto1.jpg" alt="Projeto 1" width="200">
+    <img src="projeto2.jpg" alt="Projeto 2" width="200">
+
+    <h2>Contato</h2>
+    <form>
+        Nome:<br>
+        <input type="text"><br><br>
+
+        Email:<br>
+        <input type="email"><br><br>
+
+        Mensagem:<br>
+        <textarea></textarea><br><br>
+
+        <button type="submit">Enviar</button>
+    </form>
+
+</body>
+</html>
