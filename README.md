@@ -18,11 +18,8 @@ O site contém:
 
 ## 🎯 Objetivo
 
-Praticar desenvolvimento web básico e aprender a publicar projetos utilizando GitHub e GitHub Pages.
+Praticar desenvolvimento web básico e aprender a publicar projetos utilizando GitHub 
 
-## 🌐 Acesse o Projeto Online
-
-(Coloque aqui o link do GitHub Pages depois que ativar)
 
 ## 👨‍💻 Autor
 
