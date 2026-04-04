@@ -7,10 +7,10 @@
 
     <h1>Meu Portfólio</h1>
 
-    <h2>Sobre Mim</h2>
-    <p>Sou estudante de Análise e Desenvolvimento de Sistemas.</p>
-    <p>Estou em transição de carreira para a área de Tecnologia da Informação.</p>
-    <p>Busco oportunidades para desenvolver minhas habilidades e crescer profissionalmente.</p>
+    <h2> Sobre Mim</h2>
+    <p> Sou estudante de Análise e Desenvolvimento de Sistemas.</p>
+    <p> Estou em transição de carreira para a área de Tecnologia da Informação.</p>
+    <p> Busco oportunidades para desenvolver minhas habilidades e crescer profissionalmente.</p>
 
     <h2>Habilidades</h2>
     <ul>
